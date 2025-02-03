@@ -11,10 +11,9 @@
 </div>
 
 <p align="center"> 
-🚀 Desenvolvedor Full Stack 
-<p  fontSize=30>🚀 Desenvolvedor Full Stack</p>
+<h2 align="center">🚀 Desenvolvedor Full Stack</h2>
 
-Olá me chamo Léo Rieg tenho 25 anos ! Sou um desenvolvedor dedicado com experiência em JavaScript, HTML, CSS, ReactnNative, ReactJS e NextJS, além de conhecimentos em bancos de dados como MySQL e PostgreSQL. Estou constantemente em busca de desafios e oportunidades para evoluir minhas habilidades, tanto em front-end quanto em back-end.
+Olá! Me chamo Léo Rieg, tenho 25 anos e sou um desenvolvedor apaixonado por tecnologia. Tenho experiência em JavaScript, HTML, CSS, React Native, ReactJS e NextJS, além de conhecimentos em bancos de dados como MySQL e PostgreSQL. Estou constantemente em busca de desafios e oportunidades para aprimorar minhas habilidades em front-end e back-end.
 
 👨‍💻 Projetos:
 Tenho vários projetos publicados aqui no GitHub, que você pode explorar para conhecer mais sobre meu trabalho prático. Além disso se quiser acessar meu portfólio destaca algumas das soluções que desenvolvi:
