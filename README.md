@@ -11,17 +11,25 @@
 </div>
 
 <p align="center"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+🚀 Desenvolvedor Full Stack 
+<p  fontSize=30>🚀 Desenvolvedor Full Stack</p>
+
+Olá me chamo Léo Rieg tenho 25 anos ! Sou um desenvolvedor dedicado com experiência em JavaScript, HTML, CSS, ReactnNative, ReactJS e NextJS, além de conhecimentos em bancos de dados como MySQL e PostgreSQL. Estou constantemente em busca de desafios e oportunidades para evoluir minhas habilidades, tanto em front-end quanto em back-end.
+
+👨‍💻 Projetos:
+Tenho vários projetos publicados aqui no GitHub, que você pode explorar para conhecer mais sobre meu trabalho prático. Além disso se quiser acessar meu portfólio destaca algumas das soluções que desenvolvi:
+➡️ Portfólio: https://portifolio-leo-rieg.vercel.app/
+
+🎯 Objetivo:
+Atualmente, estou focado em crescer profissionalmente, aprimorando minhas habilidades e me preparando para novos desafios. Meu objetivo é contribuir com soluções inovadoras em projetos que façam a diferença no mundo da tecnologia.
+
+🎓 Formação:
+Formado em Desenvolvimento de Sistemas pelo SENAI.<br/>Formado em Desenvolvimento Full Stack na DNC.
+
+📚 Filosofia de Trabalho:
+Acredito que o aprendizado contínuo e a paixão por novas tecnologias são essenciais para se destacar na área de desenvolvimento. Estou sempre aberto a oportunidades de explorar novidades, aprender com os erros e evoluir.
 </p>
 
-<p align="center">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
-
-<p align="center">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
 
 <p align="center">
   💌 Entre em contato comigo: ⤵️
@@ -54,11 +62,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
 </p>
