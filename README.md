@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01B4B4&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6909fa&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">  
   <a href="https://git.io/typing-svg">
@@ -92,4 +92,4 @@ Acredito que o aprendizado contínuo e a paixão por novas tecnologias são esse
   </picture>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01B4B4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6909fa&height=120&section=footer"/>
