@@ -1,19 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6909fa&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8da59&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=6909fa&size=35&center=true&vCenter=true&width=1000&lines=I'M+DEVELOPER:%29"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=f8da59&size=35&center=true&vCenter=true&width=1000&lines=I'M+DEVELOPER:%29"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="ilustração de um computador" width="400px">
 </div>
 
 <p align="center"> 
 <h2 align="center">🚀 Desenvolvedor Full Stack</h2>
 
-Olá! Me chamo Léo Rieg, tenho 25 anos e sou um desenvolvedor full stack. Tenho experiência em JavaScript, HTML, CSS, React Native, ReactJS e NextJS, além de conhecimentos em bancos de dados como MySQL e PostgreSQL. Estou constantemente em busca de desafios e oportunidades para aprimorar minhas habilidades em front-end e back-end.
+Olá! Me chamo Léo Rieg, tenho 25 anos e sou um desenvolvedor full stack. Tenho experiência em JavaScript, HTML, CSS, React Native, ReactJS e NextJS, NestJS além de conhecimentos em bancos de dados como MySQL e PostgreSQL. Estou constantemente em busca de desafios e oportunidades para aprimorar minhas habilidades em front-end e back-end.
 
 👨‍💻 Projetos:
 Tenho vários projetos publicados aqui no GitHub, que você pode explorar para conhecer mais sobre meu trabalho prático. Além disso se quiser acessar meu portfólio destaca algumas das soluções que desenvolvi:
@@ -92,4 +92,4 @@ Acredito que o aprendizado contínuo e a paixão por novas tecnologias são esse
   </picture>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6909fa&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8da59&height=120&section=footer"/>
