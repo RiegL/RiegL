@@ -15,17 +15,17 @@
 
 Olá! Me chamo Léo Rieg, tenho 25 anos e sou um desenvolvedor full stack. Tenho experiência em JavaScript, HTML, CSS, React Native, ReactJS e NextJS, NestJS além de conhecimentos em bancos de dados como MySQL e PostgreSQL. Estou constantemente em busca de desafios e oportunidades para aprimorar minhas habilidades em front-end e back-end.
 
-👨‍💻 Projetos:
+## 👨‍💻 Projetos:
 Tenho vários projetos publicados aqui no GitHub, que você pode explorar para conhecer mais sobre meu trabalho prático. Além disso se quiser acessar meu portfólio destaca algumas das soluções que desenvolvi:
 ➡️ Portfólio: https://portifolio-leo-rieg.vercel.app/
 
-🎯 Objetivo:
+## 🎯 Objetivo:
 Atualmente, estou focado em crescer profissionalmente, aprimorando minhas habilidades e me preparando para novos desafios. Meu objetivo é contribuir com soluções inovadoras em projetos que façam a diferença no mundo da tecnologia.
 
-🎓 Formação:
+## 🎓 Formação:
 Formado em Desenvolvimento de Sistemas pelo SENAI.<br/>Formado em Desenvolvimento Full Stack na DNC.
 
-📚 Filosofia de Trabalho:
+## 📚 Filosofia de Trabalho:
 Acredito que o aprendizado contínuo e a paixão por novas tecnologias são essenciais para se destacar na área de desenvolvimento. Estou sempre aberto a oportunidades de explorar novidades, aprender com os erros e evoluir.
 </p>
 
