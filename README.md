@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8da59&height=180&section=header&fontSize=30&fontColor=fff&fontAlignY=35"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8da59height=180&section=header&fontSize=90" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8da59&height=180&section=header" />
 
 
 <div align="center">  
@@ -93,5 +93,5 @@ Acredito que o aprendizado contínuo e a paixão por novas tecnologias são esse
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RiegL/RiegL/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8da59&height=180&section=footer" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8da59&height=120&section=footer"/>
