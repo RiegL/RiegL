@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8da59&height=180&section=header&fontSize=30&fontColor=fff&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 
 <div align="center">  
