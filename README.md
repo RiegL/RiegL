@@ -1,14 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8da59&height=180&section=header" />
-
 
 <div align="center">  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=f8da59&size=35&center=true&vCenter=true&width=1000&lines=I'M+DEVELOPER:%29"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="ilustração de um computador" width="400px">
 </div>
 
 <p align="center"> 
@@ -92,5 +86,4 @@ Acredito que o aprendizado contínuo e a paixão por novas tecnologias são esse
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RiegL/RiegL/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-{*/ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8da59&height=180&section=footer" /> /*}
 
