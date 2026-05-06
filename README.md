@@ -20,11 +20,6 @@ Atualmente, estou focado em crescer profissionalmente, aprimorando minhas habili
 ## 🎓 Formação:
 Formado em Desenvolvimento de Sistemas pelo SENAI.<br/>Formado em Desenvolvimento Full Stack na DNC.
 
-## 📚 Filosofia de Trabalho:
-Acredito que o aprendizado contínuo e a paixão por novas tecnologias são essenciais para se destacar na área de desenvolvimento. Estou sempre aberto a oportunidades de explorar novidades, aprender com os erros e evoluir.
-</p>
-
-
 <p align="center">
   💌 Entre em contato comigo: ⤵️
 </p>
