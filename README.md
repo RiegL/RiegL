@@ -6,22 +6,23 @@
 </div>
 
 <p align="center"> 
-<h2 align="center">🚀 Desenvolvedor Full Stack</h2>
+<h2 align="center">🚀 Full Stack Developer | Java · React</h2>
 
-Olá! Me chamo Léo Rieg, tenho 26 anos e sou  desenvolvedor full stack. Atualmente trabalho com Java e React além de ter experiência em ReactNative , NextJS, NestJS, JavaScript além de conhecimentos em bancos de dados como MySQL, PostgreSQL, MongoDB, Firebase. Estou constantemente em busca de desafios e oportunidades para aprimorar minhas habilidades em front-end e back-end.
+Full Stack Developer with experience building scalable web applications using Java and Spring Boot on the back-end, and React.js and Next.js on the front-end.
+Experienced with relational databases such as PostgreSQL and SQL, as well as cloud and development tools including AWS, Firebase, and Node.js.
 
-## 👨‍💻 Projetos:
-Tenho vários projetos publicados aqui no GitHub, que você pode explorar para conhecer mais sobre meu trabalho prático. Além disso se quiser acessar meu portfólio destaca algumas das soluções que desenvolvi:
-➡️ Portfólio: https://portifolio-leo-rieg.vercel.app/
+## 👨‍💻 Projects:
+I have published projects on GitHub where you can explore my work in practice. I also maintain a portfolio showcasing some of the solutions I have developed:
+➡️ https://portifolio-leo-rieg.vercel.app/
 
-## 🎯 Objetivo:
-Atualmente, estou focado em crescer profissionalmente, aprimorando minhas habilidades e me preparando para novos desafios. Meu objetivo é contribuir com soluções inovadoras em projetos que façam a diferença no mundo da tecnologia.
+## 🎯 Objective:
+Focused on professional growth by contributing to impactful and challenging projects. Constantly improving my skills and staying up to date with modern technologies and industry best practices.
 
-## 🎓 Formação:
-Formado em Desenvolvimento de Sistemas pelo SENAI.<br/>Formado em Desenvolvimento Full Stack na DNC.
+## 🎓 Education:
+Systems Development — SENAI.<br/>Full Stack Development — DNC.
 
 <p align="center">
-  💌 Entre em contato comigo: ⤵️
+  💌 contact me ⤵️
 </p>
 
 <p align="center">
@@ -44,7 +45,7 @@ Formado em Desenvolvimento de Sistemas pelo SENAI.<br/>Formado em Desenvolviment
 </div>
 
 
-## 🚀 Minhas Skills
+## 🚀 Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
