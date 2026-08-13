@@ -19,7 +19,7 @@ I have published projects on GitHub where you can explore my work in practice. I
 Focused on professional growth by contributing to impactful and challenging projects. Constantly improving my skills and staying up to date with modern technologies and industry best practices.
 
 ## 🎓 Education:
-Systems Development — SENAI.<br/>Full Stack Development — DNC.
+Systems Development — SENAI.<br/>Full Stack Development — DNC.<br/>Systems Analysis and Development - UNIASSELVI
 
 <p align="center">
   💌 contact me ⤵️
