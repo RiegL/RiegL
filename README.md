@@ -83,6 +83,7 @@ Some of my work is available here on GitHub and in my portfolio:
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RiegL&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiegL&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=RiegL)](https://git.io/streak-stats)
 </div>
 
 ## 📫 Contact
