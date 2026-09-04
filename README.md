@@ -4,40 +4,45 @@
   </a>
 </div>
 
-<h2 align="center">🚀 Full Stack Developer | Java · React</h2>
+<h2 align="center">🚀 Full Stack Software Engineer | Java · Spring Boot · React</h2>
 
-Full Stack Developer with experience building scalable web applications using **Java and Spring Boot** on the back-end, and **React.js and Next.js** on the front-end.
+Full-stack software engineer with experience building and maintaining web applications using **Java, Spring Boot, React, and Next.js**. I work with relational databases such as **PostgreSQL and SQL**, as well as **AWS, Firebase, Node.js, and Docker**.
 
-Experienced with relational databases such as **PostgreSQL and MySQL**, as well as cloud and development tools including **AWS, Firebase, and Node.js**.
+I enjoy solving real problems end-to-end — from understanding business requirements and designing APIs and data models to building interfaces and integrating different services.
 
-## 👨‍💻 Projects
+## 💻 Professional Experience
 
-I have published projects on GitHub where you can explore my work in practice. I also maintain a portfolio showcasing some of the solutions I have developed:
+I currently work on a **multi-tenant BRL/USDT OTC exchange platform**, contributing to the development of its business modules and integrations across the system.
 
-➡️ https://portifolio-leo-rieg.vercel.app/
+The platform is built with **Java, Spring Boot, DDD, Hexagonal Architecture, PostgreSQL, AWS, Docker, and React/Next.js**, with USDT operations integrated with the **TRON blockchain**.
 
-## 🎯 Objective
+Working on a financial platform has given me experience dealing with systems where **data consistency, security, reliability, and correctness are critical**, as well as with complex business rules and integrations.
 
-Focused on professional growth by contributing to impactful and challenging projects. Constantly improving my skills and staying up to date with modern technologies, software architecture, and industry best practices.
+## 🚀 Projects
 
-## 🎓 Education
+One project I’m particularly proud of is a **booking and management system I built for a real events venue business**, replacing a manual, paper-based scheduling process.
 
-**Systems Analysis and Development — UNIASSELVI**
-*Currently studying*
+The system is actively used in production and includes:
 
-**Systems Development — SENAI**
+* 📅 Public booking flow for clients
+* 🔒 Automatic date availability and conflict detection
+* 📊 Internal administration panel
+* 💰 Booking and pricing management
+* 🤝 Negotiation management
 
-**Full Stack Development — DNC**
+Some of my work is available here on GitHub and in my portfolio:
 
-## 💻 Skills
+🔗 https://portifolio-leo-rieg.vercel.app/
+
+## 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <p align="left">
@@ -59,9 +64,19 @@ Focused on professional growth by contributing to impactful and challenging proj
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
+
+## 🎓 Education
+
+**Systems Analysis and Development — UNIASSELVI**
+*Currently studying*
+
+**Full Stack Development — DNC**
+
+**Systems Development — SENAI**
 
 ## 📊 GitHub Stats
 
@@ -70,7 +85,7 @@ Focused on professional growth by contributing to impactful and challenging proj
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiegL&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## 📫 Contact me
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:leoorieg@gmail.com">
