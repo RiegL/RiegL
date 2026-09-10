@@ -37,7 +37,7 @@ The system is actively used in production and includes:
 
 🔗 https://www.valelorenaeventos.com.br/
 
-### 🐝 Bee Meliponário — Stingless Bee Management System
+### 🐝 Rieg Bee Meliponário — Stingless Bee Management System
 
 A **web-based management system for stingless bee colonies**, developed to replace a previously manual process based on paper records or no centralized records.
 
