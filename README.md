@@ -6,7 +6,7 @@
 
 <h2 align="center">🚀 Full Stack Software Engineer | Java · Spring Boot · React</h2>
 
-Full-stack software engineer with experience building and maintaining web applications using **Java, Spring Boot, React, and Next.js**. I work with relational databases such as **PostgreSQL and SQL**, as well as **AWS, Firebase, Node.js, and Docker**.
+Full-stack software engineer with experience building and maintaining web applications using **Java, Spring Boot, React, and Next.js**. I work with **PostgreSQL, SQL, AWS, Firebase, Node.js, and Docker**.
 
 I enjoy solving real problems end-to-end — from understanding business requirements and designing APIs and data models to building interfaces and integrating different services.
 
@@ -16,25 +16,44 @@ I currently work on a **multi-tenant BRL/USDT OTC exchange platform**, contribut
 
 The platform is built with **Java, Spring Boot, DDD, Hexagonal Architecture, PostgreSQL, AWS, Docker, and React/Next.js**, with USDT operations integrated with the **TRON blockchain**.
 
-Working on a financial platform has given me experience dealing with systems where **data consistency, security, reliability, and correctness are critical**, as well as with complex business rules and integrations.
+Working on a financial platform has given me experience dealing with systems where **data consistency, security, reliability, and correctness are critical**, as well as complex business rules and integrations.
 
 ## 🚀 Projects
 
-One project I'm particularly proud of is a **booking and management system I built for a real events venue business**, replacing a manual, paper-based scheduling process.
+### 📅 Vale Lorena Eventos — Booking & Rental Management System
+
+A **booking and rental management system developed for a real events venue**, replacing a manual, paper-based scheduling process.
+
+The system centralizes the venue's rental operations. Customers can request an event date through the public landing page, while the requests are managed internally through the administration system.
 
 The system is actively used in production and includes:
 
-* 📅 Public booking flow for clients
+* 📅 Public event date request flow
 * 🔒 Automatic date availability and conflict detection
 * 📊 Internal administration panel
-* 💰 Booking and pricing management
+* 💰 Rental and pricing management
 * 🤝 Negotiation management
+* 📋 Centralized booking and event management
 
-https://www.valelorenaeventos.com.br/
+🔗 https://www.valelorenaeventos.com.br/
 
-Some of my work is available here on GitHub and in my portfolio:
+### 🐝 Bee Meliponário — Stingless Bee Management System
 
-🔗 https://portifolio-leo-rieg.vercel.app/
+A **web-based management system for stingless bee colonies**, developed to replace a previously manual process based on paper records or no centralized records.
+
+The system allows each bee box to be individually registered and tracked, including:
+
+* 🐝 Bee species
+* 🔗 Origin and relationship to another box
+* 💪 Colony strength — strong, medium, or weak
+* 🔧 Maintenance information
+* 🔔 Management alerts
+
+The system includes authentication with different user roles. Administrators can manage user access, while regular users can access the management features according to their permissions.
+
+Built with **React and Firebase**, the system is currently used in production and allows the user to keep centralized information about each box and colony.
+
+🔗 https://app.riegbeemeliponario.com.br/login
 
 ## 🛠️ Technologies & Tools
 
