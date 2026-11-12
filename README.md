@@ -6,7 +6,7 @@
 
 <h2 align="center">🚀 Full-Stack Software Engineer | Java · Spring Boot · Next.js · Fintech</h2>
 
-Full-stack software engineer with **4+ years of experience** building and maintaining web applications using **Java, Spring Boot, React, and Next.js**. I work with **PostgreSQL, SQL, AWS, Firebase, Node.js, and Docker**.
+Full-stack software engineer with **4+ years of experience** building web and mobile applications. Today I work with **Java, Spring Boot, React, and Next.js**, along with **PostgreSQL, SQL, AWS, and Docker**. Previously, I worked with **Node.js, React/Next.js, and React Native**.
 
 I enjoy solving real problems end-to-end — from understanding business requirements and designing APIs and data models to building interfaces and integrating different services.
 
@@ -26,7 +26,7 @@ Working on a financial platform has given me experience dealing with systems whe
 
 ### 📡 Hasar Brasil — Full Stack Developer *(Aug 2022 – Dec 2025)*
 
-Developed **RFID-based systems** and reusable software products for enterprise clients such as **Vale and WEG**, using **Java, Spring Boot, and Next.js**. Contributed to reusable, scalable components shared across multiple client projects, reducing development time for new implementations.
+Developed **RFID-based systems** and reusable software products for enterprise clients such as **Vale and WEG**, using **Node.js, React, and Next.js**, as well as mobile applications with **React Native**. Contributed to reusable, scalable components shared across multiple client projects, reducing development time for new implementations.
 
 ## 🚀 Projects
 
