@@ -16,10 +16,11 @@ I enjoy solving real problems end-to-end — from understanding business require
 
 I co-founded **Nortis Tech**, where I helped finalize and continue to evolve a **multi-tenant BRL/USDT OTC exchange platform** for a fintech client. I develop its business modules and integrations across the system — payments, wallets, transactions, financial records, and invoicing.
 
-The platform is built with **Java, Spring Boot, DDD, Hexagonal Architecture, PostgreSQL, AWS, Docker, and React/Next.js**, with USDT operations integrated with the **TRON blockchain**.
+The platform is a **modular monolith** built with **Java, Spring Boot, Spring Modulith, PostgreSQL, AWS, Docker, and React/Next.js**, with modules organized by business domain, domain events to decouple them, and USDT operations integrated with the **TRON blockchain**.
 
 Working on a financial platform has given me experience dealing with systems where **data consistency, security, reliability, and correctness are critical**, as well as complex business rules and integrations. Highlights:
 
+* 🧪 Codebase with unit and integration tests using **JUnit 5, Testcontainers (real PostgreSQL), and REST-Assured**, with architecture rules automatically enforced by **ArchUnit**
 * 🔐 Contributed to **LGPD compliance** features, including audit trails for personal data access
 * 🤖 Adopted **AI-assisted code review** in my workflow, catching issues earlier and speeding up releases to production
 
