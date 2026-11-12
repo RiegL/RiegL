@@ -1,22 +1,31 @@
 <div align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=f8da59&size=35&center=true&vCenter=true&width=1000&lines=I'M+DEVELOPER:%29"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=f8da59&size=35&center=true&vCenter=true&width=1000&lines=I'M+A+FULL+STACK+DEVELOPER+:%29"/>
   </a>
 </div>
 
-<h2 align="center">🚀 Full Stack Software Engineer | Java · Spring Boot · React</h2>
+<h2 align="center">🚀 Full-Stack Software Engineer | Java · Spring Boot · Next.js · Fintech</h2>
 
-Full-stack software engineer with experience building and maintaining web applications using **Java, Spring Boot, React, and Next.js**. I work with **PostgreSQL, SQL, AWS, Firebase, Node.js, and Docker**.
+Full-stack software engineer with **4+ years of experience** building and maintaining web applications using **Java, Spring Boot, React, and Next.js**. I work with **PostgreSQL, SQL, AWS, Firebase, Node.js, and Docker**.
 
 I enjoy solving real problems end-to-end — from understanding business requirements and designing APIs and data models to building interfaces and integrating different services.
 
 ## 💻 Professional Experience
 
-I currently work on a **multi-tenant BRL/USDT OTC exchange platform**, contributing to the development of its business modules and integrations across the system.
+### 🏦 Nortis Tech — Co-founder & Full-Stack Engineer *(Dec 2025 – Present)*
+
+I co-founded **Nortis Tech**, where I helped finalize and continue to evolve a **multi-tenant BRL/USDT OTC exchange platform** for a fintech client. I develop its business modules and integrations across the system — payments, wallets, transactions, financial records, and invoicing.
 
 The platform is built with **Java, Spring Boot, DDD, Hexagonal Architecture, PostgreSQL, AWS, Docker, and React/Next.js**, with USDT operations integrated with the **TRON blockchain**.
 
-Working on a financial platform has given me experience dealing with systems where **data consistency, security, reliability, and correctness are critical**, as well as complex business rules and integrations.
+Working on a financial platform has given me experience dealing with systems where **data consistency, security, reliability, and correctness are critical**, as well as complex business rules and integrations. Highlights:
+
+* 🔐 Contributed to **LGPD compliance** features, including audit trails for personal data access
+* 🤖 Adopted **AI-assisted code review** in my workflow, catching issues earlier and speeding up releases to production
+
+### 📡 Hasar Brasil — Full Stack Developer *(Aug 2022 – Dec 2025)*
+
+Developed **RFID-based systems** and reusable software products for enterprise clients such as **Vale and WEG**, using **Java, Spring Boot, and Next.js**. Contributed to reusable, scalable components shared across multiple client projects, reducing development time for new implementations.
 
 ## 🚀 Projects
 
@@ -98,6 +107,13 @@ Built with **React and Firebase**, the system is currently used in production an
 **Full Stack Development — DNC**
 
 **Systems Development — SENAI**
+
+## 📫 Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/leorieg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portifolio-leo-rieg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <picture>
