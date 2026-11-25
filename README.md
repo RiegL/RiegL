@@ -6,7 +6,7 @@
 
 <h2 align="center">🚀 Full-Stack Software Engineer | Java · Spring Boot · Next.js · Fintech</h2>
 
-Full-stack software engineer with **4+ years of experience** building web and mobile applications. Today I work with **Java, Spring Boot, React, and Next.js**, along with **PostgreSQL, SQL, AWS, and Docker**. Previously, I worked with **Node.js, React/Next.js, and React Native**.
+Full-stack software engineer with **3+ years of experience** building web and mobile applications. Today I work with **Java, Spring Boot, React, and Next.js**, along with **PostgreSQL, SQL, AWS, and Docker**. Previously, I worked with **Node.js, React/Next.js, and React Native**.
 
 I enjoy solving real problems end-to-end — from understanding business requirements and designing APIs and data models to building interfaces and integrating different services.
 
